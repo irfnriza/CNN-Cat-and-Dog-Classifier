@@ -43,5 +43,5 @@ count_cat: 520
 ```
 
 ### Sumber
-Kode ini berasal dari: Megabagus.id
-Dataset dapat diakses melalui tautan berikut: Dataset Anjing dan Kucing.
+Kode ini berasal dari: [Megabagus.id](https://www.megabagus.id/deep-learning-convolutional-neural-networks-aplikasi/)
+Dataset dapat diakses melalui tautan berikut: [link dataset](https://drive.google.com/drive/folders/14WzYW03GJu4rvOdo7sXIADHdq9DVgS1o)
